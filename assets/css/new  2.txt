@@ -1,0 +1,10 @@
+							
+							<font  colcor= "#A60275" face="FonteLogo">
+							Leide
+							</font></br></br>
+							<font size= 18  colcor= "#A60275" face="FonteLogo">
+							Studio de Beleza
+							</font>
+							
+														<font face="FonteLogo">Leide</font></br></br>
+							<font face="FonteLogo">Studio de Beleza</font>
